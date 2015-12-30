@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "type": "products",
+      "attributes": {
+        "description": "MT800C"
+      },
+      "relationships": {
+        "brands": {
+          "data": {
+            "id": "aa780d0d-a46e-41f1-aeb5-cd29b20848f5",
+            "type": "brands"
+          }
+        }
+      },      
+      "id": "ffb9294c-4ad4-41be-bd3a-a3582fd4653f"
+    }
+  ]
+}
